@@ -27,3 +27,13 @@ prompts.md
 
 example-output.md  
 → demonstrates a sample AI-generated Amazon listing
+
+## Usage Example
+
+Step 1: Fill the product information template in `input-template.md`.
+
+Step 2: Use the prompt in `prompts.md` with an AI tool such as Claude.
+
+Step 3: The AI generates an optimized Amazon listing.
+
+Step 4: Review and refine the generated listing before publishing.
