@@ -16,3 +16,14 @@ Users can provide product information and receive:
 2. The structured prompt in `prompts.md` is used with an AI model.
 3. The AI generates a complete Amazon listing including title, bullet points, description, and keywords.
 4. The generated listing can then be reviewed and refined before publishing on a marketplace.
+
+## Project Structure
+
+input-template.md  
+→ shows the format for entering product details
+
+prompts.md  
+→ contains the AI prompt used to generate the listing
+
+example-output.md  
+→ demonstrates a sample AI-generated Amazon listing
